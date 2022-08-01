@@ -1,0 +1,8 @@
+.inputError {
+  outline: #ff5b89 solid 1px;
+}
+
+.messageError {
+  color: #ff5b89;
+  font-size: 10px;
+}
